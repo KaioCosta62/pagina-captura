@@ -32,7 +32,7 @@ Aprendi a trabalhar com seletores, pseudo-classes
 Aprendi a usar as propriedades de background
 ## Stack utilizada
 
-**Front-end:** HTML, CSS e JavaScript
+**Front-end:** HTML, CSS
 
 
 
